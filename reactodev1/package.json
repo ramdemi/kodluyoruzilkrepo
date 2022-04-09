@@ -1,0 +1,19 @@
+{
+  "name": "odev",
+  "version": "1.0.0",
+  "description": "node js dersi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "ramdem",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
