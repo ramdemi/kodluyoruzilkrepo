@@ -17,9 +17,6 @@
       "state": "FL",
       "country": "United States",
       "classification": "Class II",
-      "openfda": {
-
-      },
       "product_type": "Food",
       "event_id": "75272",
       "recalling_firm": "Pharmatech LLC",
@@ -75,9 +72,6 @@
       "state": "FL",
       "country": "United States",
       "classification": "Class I",
-      "openfda": {
-
-      },
       "product_type": "Food",
       "event_id": "69516",
       "recalling_firm": "Oasis Brands, Inc",
@@ -111,9 +105,6 @@
       "product_description": "Yellow Onion.  Product is labeled in part:  \"***FC Salsa Mango\"***Refrigerate at 34 F***\"      Item #   302940 FC SALSA MANGO 2/5#.        Product is fresh made - Ready To Eat.",
       "report_date": "20120815",
       "classification": "Class I",
-      "openfda": {
-
-      },
       "recalling_firm": "FreshPoint South Florida",
       "recall_number": "F-1922-2012",
       "initial_firm_notification": "Two or more of the following: Email, Fax, Letter, Press Release, Telephone, Visit",
@@ -132,9 +123,6 @@
       "state": "CA",
       "country": "United States",
       "classification": "Class III",
-      "openfda": {
-
-      },
       "product_type": "Food",
       "event_id": "85253",
       "recalling_firm": "Organic By Nature, Inc.",
